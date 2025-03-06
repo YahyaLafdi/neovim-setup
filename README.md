@@ -2,7 +2,7 @@
 
 ## Introduction
 
-** This repo hosts my configuration for NeoVim **
+### This repo hosts my configuration for NeoVim
 
 ## Installation
 
