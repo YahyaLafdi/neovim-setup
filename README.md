@@ -2,7 +2,7 @@
 
 ## Introduction
 
-*NOT** a Neovim distribution, but instead a starting point for your configuration.
+** This repo hosts my configuration for NeoVim **
 
 ## Installation
 
